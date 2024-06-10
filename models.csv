@@ -1,0 +1,6 @@
+model_name,url,file_type,encode_type
+Baichuan-1-13b-base,'https://huggingface.co/baichuan-inc/Baichuan-13B-Base/blob/main/tokenizer.model',txt,SentencePiece
+Baichuan-2-13b-base,'https://huggingface.co/baichuan-inc/Baichuan2-13B-Base/blob/main/tokenizer.model',txt,SentencePiece
+GLM-3-6b-base,'https://huggingface.co/THUDM/chatglm3-6b/blob/main/tokenizer.model',txt,SentencePiece
+GLM-4v-9b,'https://huggingface.co/THUDM/glm-4v-9b/blob/main/tokenizer.model',txt,Base64
+Yi-1.5-34b,'https://huggingface.co/01-ai/Yi-1.5-34B/blob/main/tokenizer.model',txt,SentencePiece
